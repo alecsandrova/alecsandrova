@@ -1,16 +1,14 @@
 ### Hi there 👋
+Welcome to my GitHub account! I am Alexandra, a 22-year-old Computer Engineering student currently in my 3rd year of studies. I'm working as a Software Engineer since July 2021 and I've worked as an IT Trainer for 1 year and a half . I am passionate about programming and have experience using various programming languages and technologies.
 
-<!--
-**alecsandrova/alecsandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+Here are some of the programming languages and technologies that I have experience with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C#
+* .NET
+* .NET Core
+* Angular
+* Python
+* Linux
+* Git
+* MongoDb

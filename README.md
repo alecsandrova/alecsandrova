@@ -1,23 +1,16 @@
-<h1 align="left">Greetings! 👋</h1>
+# 👋 Hello World!
 
-###
+### Software Engineer, Computer Engineering Student & Aspiring Tech Entrepreneur
 
-<p align="left">Alexandra here, a 22-year-old explorer navigating the vast realm of Computer Engineering. Presently, my coding compass is guiding me through the creation of an app that promises to be a stellar addition to the digital landscape.<br><br>👩‍💻 As a Software Engineer since July 2021, I've been honing my skills in the world of code. Additionally, I've spent a substantial year and a half as an IT Trainer, sharing the knowledge that fuels the tech fire.</p>
+Welcome to my GitHub profile! I'm Alexandra, a 22-year-old Computer Engineering enthusiast, coding my way through the complexities of technology and dreaming big in the world of tech entrepreneurship.
 
-###
+## About Me
+- 💻 **Experience:** Since July 2021, I've been immersed in the world of software engineering, enhancing my skills in coding. I've also spent a meaningful year and a half as an IT Trainer, spreading the tech spark.
+- 📚 **Education:** Currently in my 4th year of Computer Engineering, diving deep into the tech ocean.
+- 🎯 **Ambition:** Eager to make my mark as a tech entrepreneur, blending innovation with practical solutions.
+- 🎲 **Interests:** Passionate about contests and hackathons, always ready for a good tech challenge.
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently in my 4th year of Computer Engineering<br>🎯 Goals: becoming a tech entrepreneur<br>🎲 I enjoy participating in contests and hackatons</p>
-
-###
-
-<h2 align="left">My tools</h2>
-
-###
-
+## Technical Toolbox
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -48,11 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
 
-<p align="left">🌠 As I shape my path, the cosmos of entrepreneurship beckons. The stars are aligning for a future where innovation and ambition converge.<br><br>Your companionship on this journey is an honor. Together, let's chart the course to new horizons! 🚀</p>
+## Vision
+- 🌠 As I navigate the exciting journey of computer engineering, the realm of entrepreneurship beckons. Aiming for a future where innovation meets ambition.
 
-###
+## Let's Connect!
+- 🚀 Your interest in my journey is much appreciated. Feel free to explore my repositories and join me in this adventure towards new technological horizons.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alecsandrova&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

@@ -2,12 +2,12 @@
 
 ### Software Engineer, Computer Engineering Student & Aspiring Tech Entrepreneur
 
-Welcome to my GitHub profile! I'm Alexandra, a 22-year-old Computer Engineering enthusiast, coding my way through the complexities of technology and dreaming big in the world of tech entrepreneurship.
+Welcome to my GitHub profile! I'm Alexandra, a 22-year-old Computer Engineering enthusiast.
 
 ## About Me
-- 💻 **Experience:** Since July 2021, I've been immersed in the world of software engineering, enhancing my skills in coding. I've also spent a meaningful year and a half as an IT Trainer, spreading the tech spark.
+- 💻 **Experience:** Since July 2021, I've been working as a software engineer. I've also spent a year and a half as an IT Trainer.
 - 🐞 **Early Beginnings:** I've been creating (and fixing!) bugs since 2016. This early dive into programming laid the foundation for my passion and skills in computer engineering.
-- 📚 **Education:** Currently in my 4th year of Computer Engineering, diving deep into the tech ocean.
+- 📚 **Education:** Currently in my 4th year of Computer Engineering.
 - 🎯 **Ambition:** Eager to make my mark as a tech entrepreneur, blending innovation with practical solutions.
 - 🎲 **Interests:** Passionate about contests and hackathons, always ready for a good tech challenge.
 
@@ -41,13 +41,6 @@ Welcome to my GitHub profile! I'm Alexandra, a 22-year-old Computer Engineering 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-
-## Vision
-- 🌠 As I navigate the exciting journey of computer engineering, the realm of entrepreneurship beckons. Aiming for a future where innovation meets ambition.
-
-## Let's Connect!
-- 🚀 Your interest in my journey is much appreciated. Feel free to explore my repositories and join me in this adventure towards new technological horizons.
 
 
 <div align="center">

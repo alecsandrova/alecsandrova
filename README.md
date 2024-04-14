@@ -2,7 +2,7 @@
 
 ### Software Engineer, Computer Engineering Student & Aspiring Tech Entrepreneur
 
-Welcome to my GitHub profile! I'm Alexandra, a 22-year-old Computer Engineering enthusiast.
+Welcome to my GitHub profile! I'm Alexandra, a 23-year-old Computer Engineering enthusiast.
 
 ## About Me
 - 💻 **Experience:** Since July 2021, I've been working as a software engineer. I've also spent a year and a half as an IT Trainer.

@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-### Software Engineer, Computer Engineering Student & Aspiring Tech Entrepreneur
+### Software Engineer, Cyber Security Student & Aspiring Tech Entrepreneur
 
 Welcome to my GitHub profile! I'm Alexandra, a 23-year-old Computer Engineering enthusiast.
 

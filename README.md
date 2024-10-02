@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Alexandra, a 23-year-old Computer Engineering 
 ## About Me
 - 💻 **Experience:** Since July 2021, I've been working as a software engineer. I've also spent a year and a half as an IT Trainer.
 - 🐞 **Early Beginnings:** I've been creating (and fixing!) bugs since 2016. This early dive into programming laid the foundation for my passion and skills in computer engineering.
-- 📚 **Education:** Currently in my 4th year of Computer Engineering.
+- 📚 **Education:** Bachelor's Degree in Computer Engineering. Currently pursuing a Master's Degree in Cyber Security.
 - 🎯 **Ambition:** Eager to make my mark as a tech entrepreneur..
 - 🎲 **Interests:** I enjoy participating in  contests and hackathons, always ready for a good tech challenge.
 
